@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-06-01
+date: 2025-06-30
 inline: true
 related_posts: false
 ---
 
-Our paper ***Integrating LLMs and Psychometrics: Global Construct Validity*** has been accepted by [ICIS2024](https://icis2024.aisconferences.org/)
+Our paper ***An explainable framework for assisting the detection of AI-generated textual content*** has been accepted by [DSS](https://www.sciencedirect.com/science/article/abs/pii/S0167923625000995)
 
